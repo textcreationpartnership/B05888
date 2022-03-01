@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To my Lord Commissioner, his Grace, and the honourable estates of Parliament presently convened. The humble petition of Mr. James Smith.</title>
+            <author>Smith, James, 1645-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05888</idno>
+            <idno type="STC">Wing S4090</idno>
+            <idno type="STC">ESTC R184304</idno>
+            <idno type="EEBO-CITATION">52614950</idno>
+            <idno type="OCLC">ocm 52614950</idno>
+            <idno type="VID">176187</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05888)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176187)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2763:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To my Lord Commissioner, his Grace, and the honourable estates of Parliament presently convened. The humble petition of Mr. James Smith.</title>
+                  <author>Smith, James, 1645-1731.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed [s.n.],</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>in the year, 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: creased, with slight loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church buildings --  Scotland --  Early works to 1800.</term>
+               <term>Architects and builders --  Scotland --  Early works to 1800.</term>
+               <term>Canongate (Edinburgh, Scotland) --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176187:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <head>TO <hi>My Lord Commiſſioner,</hi> HIS GRACE AND THE HONOURABLE ESTATES OF PARLIAMENT PRESENTLY CONVEENED. The Humble PETITION of Mr. <hi>JAMES SMITH.</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>THat there being a Mortification, made by Umquhile, <hi>Thomas Mudie,</hi> for the building of a Church in the Graſs-Market which Money does now extend to the Summ of Fiftie or Sixtie Thouſand Merks <hi>Scots,</hi> or thereby, And there being a Repreſentation made to the Eſtates of Parliament that it was neither Neceſlar nor Convenient to build a Church in that place, they by their Act, of date the  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  day of  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  1685: years, did remit to the Lords of His <hi>Majeſties</hi> Secret Council, to Appoint the ſaid <hi>Money</hi> to be Diſpoſed off, as they ſhould find Cauſe; And the ſaids Lords ot secret Council, Conſidering that the <hi>Abay-Church</hi> which was locally within the precinct of <hi>Holy Rood-houſe,</hi> was deſigned by His late <hi>Majeſty,</hi> to be his own Chappel, and no longer to continue a Pariſh Church; They appointed as much of the ſaid Mortified Money as ſhould be neceſſary, to be ap<g ref="char:EOLhyphen"/>plyed for the Building of a Church, for the Inhabitants of the <hi>Canongate,</hi> in the moſt convenient place that could be had for that purpoſe: And did recommend to the then Lord Commiſſioners of the Theſaurie, to ſee the ſame done ac<g ref="char:EOLhyphen"/>cordingly. Whereupon, the ſaids Lords did enter in an Agreement with your Petitioner, to build a Church in the <hi>Canongate,</hi> conform to a certain Model or Draught, which is depoſitate in the hands of Sir <hi>Thomas Moncrief</hi> of that llk, Clerk to their Majeſties Theſaurie, for the building of which Church, conform to the ſaid Model, Your Petitioner was to get the Summ of 25000 Merks Scots; beſides what was given for purchaſſing the ground, for the ſaid Church and Church-yard. And according to the ſaid Agreement, Your Petitioner did ſet about the Work with all the Care, and Dilligence poſſible, ſo as the ſame does appear to be come a great length. Yet conſidering the Roof and Kirk-yeard dykes, and other things unfiniſhed. There will be a fourth part of the Work yet to do. Albeit <hi>I</hi> be able to inſtruct that the whole price is already expended upon Materials and Workmen, beſides my own pains. And that it was not poſſible for any Man to do it cheaper than Your Petitioned <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſufficiency of the Work. And being confident that this great Court (in whom does principally Recide the <hi>Nobile Officium</hi> of ice<g ref="char:EOLhyphen"/>ing Juſtice done to all Men, and who has power to Relax from the Rules of Common Law, when Equity requires the ſame,) will not ſuffer any Man to be ruined, by the undertaking ſo pious a Work; Seing the Mortifi<g ref="char:EOLhyphen"/>cation is ſufficient to Defray the whole Charge; And a conſiderable part yet remains to be Employed upon ſome other pious Uſe. And, Your Petitioner is able to make his Loſs moſt evidently Appear, upon the grounds following, <hi>viz. 1mo:</hi> By Reaſon of the badneſs of the ground (which Your Petitioner could not foreſee) I was neceſſitate to Found 12 Foot deeper, as the Model whereby the Agreement was made, which at the cheapeſt that any Work can be wrought in <hi>Edinburgh,</hi> will amount to the ſum of 1800. Ponnds Scots. 2<hi>do.</hi> The Timber ſince the Agreement has riſen in the price a full Third and more, occaſioned by the Warr, which was not under Conſideration the time of the Agreement, whereby your Petitioner is a clear Loſſer, in upwards of 1200: pounds Scots Money. 3<hi>tio.</hi> By the Con<g ref="char:EOLhyphen"/>tract it will appear, That in the Agreement made with Your Petitionr, there is no mention made of <hi>Scaffolding,</hi> it be<g ref="char:EOLhyphen"/>ing altogether foregot: which is ſo Conſiderable (the Fabrik being a Church, which has no Joyſting) that the Timber of the <hi>Scaffolding</hi> alone with Nails, and Workman-ſhip, does ſtand me the Sum of 1200 pounds Scots more, as any Skil<g ref="char:EOLhyphen"/>ful Men will value the Timber to be worth when the Work is ended: And it were hand to make a Trades-man loſs ſo much, by an Overſight, in a Bargain. 4<hi>to.</hi> By the Agreement the two Rowes of Pillars were only to be Rough<g ref="char:EOLhyphen"/>ſtones, and Plaiſtered over; But in reſpect that the making them ſo, would have occaſioned the Pillars to have been ſo Great, that they would have rendered a great part of the Church uſeleſs; upon Conſideration whereof, Your Pe<g ref="char:EOLhyphen"/>titioner was perſwaded to make all the Pillars of Neat hewen Work; As likeways to make a Handſome hewen En<g ref="char:EOLhyphen"/>try, form the Street to the Church yeard (which by the Contract I was not oblidged to do) both which mat extend to the Summ of 1000: Pounds Scots Money. So that I am able to Demonſtrate, to any who ſhall be Appointed to enquire in the Matter, that I will be upwards of 5: or 6000: Pounds Scots Money Loſſer, upon the whole Bargain which is ſufficient to Break a Man of a greater Stoke as ever I had. And I muſt yet uſe an Argument, to induce this HONOURABLE COURT to do me Juſtice, which is, That albeit, I have been ſeveral Years in good Im<g ref="char:EOLhyphen"/>ployment, and Engadged in many Bargains, this is the firſt time that ever I Claimed any more than my firſt A<g ref="char:EOLhyphen"/>greement, not would I have Begun now, if my Loſs had not been ſo great, that I am not able to ſuſtaine it; And that ſeveral of the Articles are ſuch as might be Recovered by the ordinary Courſe of Law, as being things profi<g ref="char:EOLhyphen"/>tably done over and above Agreement.</p>
+            <p>
+               <hi>MAY IT THEREFORE PLEASE YOUR GRACE,</hi> and the Remnant Members of this Ho<g ref="char:EOLhyphen"/>nourable <hi>Court of Parliament,</hi> to Order Your Petitioner's Loſs to be payed out of the Remnant of the fore<g ref="char:EOLhyphen"/>ſaid Mortified Money; or to Appoint any of Your Number to Examine, the Verity of the Grounds above Represented, and to Report, that Your <hi>GRACE,</hi> and the Honourable <hi>Members of Parliament,</hi> may do therein as Your find Juſt: And Your Petitioner ſhall ever Pray, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>EDINBURGH, Printed the Year, 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
